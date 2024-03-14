@@ -9,6 +9,6 @@ app.listen(5001, ()=>{
 })
 
 app.get('/', (req,res)=>{
-   res.json('My API running')
+   res.json('Saketh Mallojjala's node-js application is successfully deployed on aws-ec2 instance')
 
 })
